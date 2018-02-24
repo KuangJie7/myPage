@@ -1,4 +1,4 @@
-# myPage
+# to-do-list-react
 A web page to set a to-do list which can remember things you wrote!
 
 ### Go with following tips : ###
